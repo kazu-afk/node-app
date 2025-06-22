@@ -1,3 +1,3 @@
 # node-app
 
-nodeを使ったwebアプリの勉強用のリポジトリです。
+node/reactを使ったwebアプリの勉強用のリポジトリです。
